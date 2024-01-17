@@ -1,1 +1,1 @@
-#script p tal coisa
+#!/bin/bash
