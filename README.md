@@ -7,7 +7,7 @@
 
 [B] Script para verificar metadados em arquivos baixados: 04.sh
 
-[B/C/P] Script para realizar tal função: 01.sh
+[B] Script para DoS: 05.C
 
 Script para realizar tal função: 01.sh
 
