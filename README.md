@@ -9,7 +9,7 @@
 
 [B] Script para DoS: 05.C
 
-Script para realizar tal função: 01.sh
+[B] Script para Sniffing de Portas: 06.c
 
 Script para realizar tal função: 01.sh
 
