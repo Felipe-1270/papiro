@@ -15,4 +15,7 @@
 
 [B] Script para coleta de informações através de análise de metadados de arquivos: 08.sh
 
+[B] Script em python utilizando o WHOIS para obter informações sobre um domínio: 09.sh
+
+
 
