@@ -11,6 +11,6 @@
 
 [B] Script para Sniffing de Portas: 06.c
 
-Script para realizar tal função: 01.sh
+[B] Script para automatizar pesquisa com o Dorks: 07.sh
 
 Script para realizar tal função: 01.sh
