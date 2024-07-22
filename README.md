@@ -13,4 +13,6 @@
 
 [B] Script para automatizar pesquisa com o Dorks: 07.sh
 
-Script para realizar tal função: 01.sh
+[B] Script para coleta de informações através de análise de metadados de arquivos: 08.sh
+
+
