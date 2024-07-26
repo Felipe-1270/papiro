@@ -17,5 +17,5 @@
 
 [B] Script em python utilizando o WHOIS para obter informações sobre um domínio: 09.sh
 
-
+[B] Script para Brute force em subdomínio: 10.sh
 
