@@ -7,7 +7,7 @@
 
 [B] Script para verificar metadados em arquivos baixados: 04.sh
 
-[B] Script para DoS: 05.C
+[B] Script para DoS: 05.c
 
 [B] Script para Sniffing de Portas: 06.c
 
@@ -15,7 +15,7 @@
 
 [B] Script para coleta de informações através de análise de metadados de arquivos: 08.sh
 
-[B] Script em python utilizando o WHOIS para obter informações sobre um domínio: 09.sh
+[B] Script em python utilizando o WHOIS para obter informações sobre um domínio: 09.py
 
 [B] Script para Brute force em subdomínio: 10.sh
 
